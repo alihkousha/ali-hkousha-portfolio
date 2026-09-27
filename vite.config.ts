@@ -13,5 +13,5 @@ export default defineConfig({
     server: { entry: "server" },
   },
   plugins: [react()],
-  //base: "/ali-hkousha-portfolio/",
+  base: "/ali-hkousha-portfolio/",
 });
